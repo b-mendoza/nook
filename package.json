@@ -3,9 +3,9 @@
     "dev": "tsx watch src/index.ts"
   },
   "dependencies": {
-    "@hono/node-server": "1.9.0",
+    "@hono/node-server": "1.10.1",
     "discord.js": "14.14.1",
-    "hono": "4.2.2"
+    "hono": "4.6.5"
   },
   "devDependencies": {
     "@types/node": "20.11.17",

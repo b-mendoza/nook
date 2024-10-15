@@ -6,14 +6,14 @@ settings:
 
 dependencies:
   '@hono/node-server':
-    specifier: 1.9.0
-    version: 1.9.0
+    specifier: 1.10.1
+    version: 1.10.1
   discord.js:
-    specifier: ^14.14.1
+    specifier: 14.14.1
     version: 14.14.1
   hono:
-    specifier: 4.2.2
-    version: 4.2.2
+    specifier: 4.6.5
+    version: 4.6.5
 
 devDependencies:
   '@types/node':
@@ -305,8 +305,8 @@ packages:
     engines: {node: '>=14'}
     dev: false
 
-  /@hono/node-server@1.9.0:
-    resolution: {integrity: sha512-oJjk7WXBlENeHhWiMqSyxPIZ3Kmf5ZYxqdlcSIXyN8Rn50bNJsPl99G4POBS03Jxh56FdfRJ0SEnC8mAVIiavQ==}
+  /@hono/node-server@1.10.1:
+    resolution: {integrity: sha512-5BKW25JH5PQKPDkTcIgv3yNUPtOAbnnjFFgWvIxxAY/B/ZNeYjjWoAeDmqhIiCgOAJ3Tauuw+0G+VainhuZRYQ==}
     engines: {node: '>=18.14.1'}
     dev: false
 
@@ -420,9 +420,9 @@ packages:
       resolve-pkg-maps: 1.0.0
     dev: true
 
-  /hono@4.2.2:
-    resolution: {integrity: sha512-mDmjBHF6uBNN3TASdAbDCFsN9FLbrlgXyFZkhLEkU7hUgk0+T9hcsUrL/nho4qV+Xk0RDHx7gop4Q1gelZZVRw==}
-    engines: {node: '>=16.0.0'}
+  /hono@4.6.5:
+    resolution: {integrity: sha512-qsmN3V5fgtwdKARGLgwwHvcdLKursMd+YOt69eGpl1dUCJb8mCd7hZfyZnBYjxCegBG7qkJRQRUy2oO25yHcyQ==}
+    engines: {node: '>=16.9.0'}
     dev: false
 
   /lodash.snakecase@4.1.1:
